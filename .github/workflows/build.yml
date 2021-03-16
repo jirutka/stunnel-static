@@ -2,7 +2,7 @@ name: Build
 on: push
 
 env:
-  STUNNEL_VERSION: 5.57
+  STUNNEL_VERSION: 5.58
 
 jobs:
   build:
